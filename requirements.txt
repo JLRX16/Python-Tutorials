@@ -1,0 +1,11 @@
+jupyter
+jupyter_client
+jupyter_core
+matplotlib
+nbtutor
+notebook>=4.2
+numpy
+pandas
+scipy
+six
+traitlets
